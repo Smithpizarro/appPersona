@@ -1,0 +1,1 @@
+export const  RUTA_SERVICIOS="https://crudpersona.herokuapp.com/crudPersona";
